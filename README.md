@@ -30,4 +30,3 @@ Este projeto foi desenvolvido com base no tutorial disponível no YouTube.
 - **Link do Vídeo:** https://youtu.be/ZU-drSVodBw?si=08KuEpJ2X1xInWLS
 
 Agradecimentos ao criador do conteúdo por compartilhar seu conhecimento.
-```
